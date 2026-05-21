@@ -1,0 +1,6 @@
+{
+  "name": "Konekt",
+  "description": "A student connection platform to share resources, build academic & social communities, message directly, and browse student-run marketplaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
